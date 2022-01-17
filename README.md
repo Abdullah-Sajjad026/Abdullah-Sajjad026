@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Abdullah-Sajjad026/Abdullah-Sajjad026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
+
+
+- 🌱 Aspiring Programmer doing Bachelors in Computer Science
+
+- 👨‍💻 All of my projects are available [here](https://github.com/Abdullah-Sajjad026)
+
+- 📫 How to reach me **abdullahsa026@gmail.com**
+
+
+
+
+
+
+
+
+<br>
+
