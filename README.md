@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 Aspiring Programmer doing Bachelors in Computer Science
 
-- 👨‍💻 All of my projects are available [here](https://abdullahwebdev.netlify.app/)
+- 👨‍💻 My recent works are available [here](https://abdullahwebdev.netlify.app/)
 
 - 📫 How to reach me **abdullahsa026@gmail.com**
 
