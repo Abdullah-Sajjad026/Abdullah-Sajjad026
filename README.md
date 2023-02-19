@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 Front-end developer with 2+ years of experience, also pursuing Bachelors in Computer Science
 
-- 👨‍💻 My recent works are available [here](www.abdullahsajjad.me/)
+- 👨‍💻 My recent works are available [here](https://www.abdullahsajjad.me)
 
 - 📫 How to reach me **abdullahsa026@gmail.com**
 
