@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My recent works are available [here](https://www.abdullahsajjad.me)
 
-- 📫 How to reach me **abdullahsa026@gmail.com**
+- 📫 How to reach me **contact@abdullahsajjad.me**
 
 
 
