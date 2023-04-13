@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
 
 
-- 🌱 Front-end developer with 2+ years of experience, also pursuing Bachelors in Computer Science
+- 🌱 Front-end developer with 3+ years of experience, also pursuing Bachelors in Computer Science
 
 - 👨‍💻 My recent works are available [here](https://www.abdullahsajjad.me)
 
