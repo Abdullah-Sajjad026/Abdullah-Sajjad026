@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
-<div id="badges">
+<div id="badges" align="center">
 	<a href="https://www.linkedin.com/in/abdullahsajjad026/">
 		<img src="https://img.shields.io/badge/LinkedIn-64B3F3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
@@ -39,13 +39,6 @@ Here are some ideas to get you started:
 - 👨‍💻 My recent works are available [here](https://www.abdullahsajjad.me)
 
 - 📫 How to reach me **contact@abdullahsajjad.me**
-
-
-
-
-<br>
-</br>
-
 
 
 ## Languages and Tools
