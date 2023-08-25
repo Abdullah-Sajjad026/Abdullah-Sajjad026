@@ -71,11 +71,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Sajjad026&theme=tokyonight&show_icons=true" alt="Curtis Warcups Github Stats" />
 </details>
 
+<!--
 <details>
   <summary>📈 Github Activity Graph</summary>
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdullah-Sajjad026&theme=tokyo-night" alt="Oops, something went wrong with Activity Graph" />
 </details>
+-->
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>
