@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 
-- 🌱 Front-end developer with 3+ years of experience, also pursuing Bachelors in Computer Science
+- 🌱 Full-Stack (MERN) developer with 3+ years of industry experience.
 
 - 👨‍💻 My recent works are available [here](https://www.abdullahsajjad.me)
 
