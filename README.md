@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 
-- 🌱 Full-Stack (MERN) developer with 3+ years of industry experience.
+- 🌱 Frontend engineer with 3+ years of industry experience working with mostly Startups and aspiring to go Full Stack
 
 - 👨‍💻 My recent works are available [here](https://www.abdullahsajjad.me)
 
