@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 
 <h1 align="center">Hi 👋, I'm Abdullah Sajjad</h1>
 <div id="badges" align="center">
@@ -71,13 +69,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Sajjad026&theme=tokyonight&show_icons=true" alt="Curtis Warcups Github Stats" />
 </details>
 
-<!--
 <details>
   <summary>📈 Github Activity Graph</summary>
   <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abdullah-Sajjad026&theme=tokyo-night" alt="Oops, something went wrong with Activity Graph" />
 </details>
--->
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>
@@ -90,7 +86,39 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Sajjad026&theme=tokyonight" alt="Oops, something went wrong with most used languages graph. Sorry!" />
 </details>
+-->
+## Hey there! I'm [Abdullah Sajjad](https://abdullahsajjad.me) 👋
+
+### 💡 What I'm all about
+I'm a software developer with 4 years of experience, specializing in frontend technologies while also skilled in backend development. I've got a bit of an eye for design too, which helps me create stuff that's not just functional, but looks pretty cool as well!
+
+With a growth mindset, I'm a strong advocate of self-education, always trying to learn more about the things that interest me the most.
+
+### 🌱 Currently exploring
+- The deeper realms of backend magic with .NET and FastAPI
+- Reading the [Designing Data-Intensive Applications](https://dataintensive.net/)
+
+### 🛠️ My toolbox
+```javascript
+const mySkills = {
+  frontend: ['React', 'Next.js', 'HTML', 'CSS', 'SASS'],
+  backend: ['.NET', 'FastAPI', 'SQL'],
+  languages: ['JavaScript', 'TypeScript', 'C#', 'Python'],
+  tools: ['Docker', 'Git', 'CI/CD Pipelines']
+};
+```
+
+### 💼 Some cool stuff I've done
+- Extensive experience with in-demand frontend technologies like Next.js and React.js
+- Contributed to multiple successful startups, driving thousands of dollars in revenue
+- Built some nifty full-stack solutions
+- Earned a top-rated badge on Upwork (pretty chuffed about that!)
+- Mastered the art of working in my pajamas (aka remote work)
 
 
-<br>
+### 🚀 What's next?
+I'm always on the lookout for exciting projects and awesome people to collaborate with. Whether you're dreaming up the next big app or need to spruce up an existing one, I'm here to help make it happen!
 
+### 📫 Let's chat!
+Want to talk about the latest tech trends? Or just fancy a virtual coffee? Drop me a line!
+[LinkedIn](https://linkedin.com/in/abdullahsajjad026) | [Gmail](mailto:contact@abdullahsajjad.me)
