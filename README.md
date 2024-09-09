@@ -102,8 +102,8 @@ With a growth mindset, I'm a strong advocate of self-education, always trying to
 ```javascript
 const mySkills = {
   frontend: ['React', 'Next.js', 'HTML', 'CSS', 'SASS'],
-  backend: ['.NET', 'FastAPI', 'SQL'],
-  languages: ['JavaScript', 'TypeScript', 'C#', 'Python'],
+  backend: ['.NET', 'Nest.js', 'SQL'],
+  languages: ['JavaScript', 'TypeScript', 'C#'],
   tools: ['Docker', 'Git', 'CI/CD Pipelines']
 };
 ```
